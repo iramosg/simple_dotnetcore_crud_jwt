@@ -1,0 +1,16 @@
+[{
+    "Name": "Arnaldo Pereira",
+    "Email": "arnaldo@cruddotnetcore.com",
+    "DepartmentId": 1
+  },
+  {
+    "Name": "Renato Pedigoni",
+    "Email": "renato@cruddotnetcore.com",
+    "DepartmentId": 2
+  },
+  {
+    "Name": "Thiago Catoto",
+    "Email": "catoto@cruddotnetcore.com",
+    "DepartmentId": 3
+  }
+]
