@@ -97,9 +97,9 @@ namespace cruddotnetcore
       }
 
       // add seeder rodar apenas uma vez -- Jaqueline Benedicto
-      // seeder.SeedUsers();
-      // seeder.SeedDepartment();
-      // seeder.SeedEmployee();
+      seeder.SeedUsers();
+      seeder.SeedDepartment();
+      seeder.SeedEmployee();
 
       app.UseCors("AllowSpecificOrigin");
 
